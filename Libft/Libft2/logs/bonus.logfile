@@ -1,0 +1,13 @@
+./test/test_runners/bonus_Runner.c:36:ft_lstmap_simple_test:[0;32mPASS[00m
+./test/test_runners/bonus_Runner.c:37:ft_lstnew_simple_test:[0;32mPASS[00m
+./test/test_runners/bonus_Runner.c:38:ft_lstsize_simple_test:[0;32mPASS[00m
+./test/test_runners/bonus_Runner.c:39:ft_lstsize_size1:[0;32mPASS[00m
+./test/test_runners/bonus_Runner.c:40:ft_lstclear_simple_test:[0;32mPASS[00m
+./test/test_runners/bonus_Runner.c:41:ft_lstdelone_simple_test:[0;32mPASS[00m
+./test/test_runners/bonus_Runner.c:42:ft_lstiter_simple_test:[0;32mPASS[00m
+./test/test_runners/bonus_Runner.c:43:ft_lstadd_front_simple_test:[0;32mPASS[00m
+./test/test_runners/bonus_Runner.c:44:ft_lstadd_back_simple_test:[0;32mPASS[00m
+
+-----------------------
+9 Tests 0 Failures 0 Ignored 
+[0;32mOK[00m
